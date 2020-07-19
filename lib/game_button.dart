@@ -6,6 +6,6 @@ class GameButton{
   Color bg;
   bool enabled;
 
-  GameButton({this.id,this.text="",this.bg=Colors.lightBlueAccent, this.enabled=true});
+  GameButton({this.id,this.text="",this.bg=Colors.white70, this.enabled=true});
 
 }
